@@ -1,0 +1,7 @@
+{
+  "rules": [
+    {"id": "wire-transfer-fraud", "term": "wire transfer required", "mode": "substring"},
+    {"id": "free-money", "term": "free money", "mode": "whole_word"},
+    {"id": "guaranteed", "term": "ｇｕａｒａｎｔｅｅｄ", "mode": "whole_word"}
+  ]
+}
